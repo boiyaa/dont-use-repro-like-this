@@ -87,8 +87,8 @@ URLを設定してプレビューしてみましょう
 さて、今のままだと、ブラウザでサイトを初めて開いた時に、特定の人に表示するようにしか設定できないので、  
 ホーム画面を開けばホーム用メッセージ、プロフィール画面を開けばプロフィール用メッセージ、を常に表示するような設定をします。
 
-### 全員に表示する事前準備
-`全ユーザー`オーディエンスを作成しましょう
+### ~~全員に表示する事前準備~~
+~~`全ユーザー`オーディエンスを作成しましょう~~ どうやら初回ユーザーは含まれていないそうです
 
 ![Screen Shot](https://boiyaa.github.io/dont-use-repro-like-this/images/30.png)
 
@@ -154,13 +154,16 @@ profileもでました。
 ![Screen Shot](https://boiyaa.github.io/dont-use-repro-like-this/images/61.png)
 
 
-## まとめ
+## デザインをカスタムする
 ちなみに、ページのテンプレートだと、最大２ボタンまでしか用意されてないので、
 ２つの選択肢のみで全てのコンテンツを網羅したWebサイトをつくらなければいけない。
 
 ![Screen Shot](https://boiyaa.github.io/dont-use-repro-like-this/images/70.png)
 
-もっとこだわった画面を作りたい人のために、[`カスタムメッセージ （ベータ版）`](https://docs.repro.io/ja/dashboard/campaign/custom-message.html) という機能があり、これを申し込むとなんでも作れますよ。
+もっとこだわった画面を作りたい人のために、[`カスタムメッセージ （ベータ版）`](https://docs.repro.io/ja/dashboard/campaign/custom-message.html) という機能があり、これを申し込みましょう。
+
+
+
 
 いやー Repro 、非常に便利なCMSですね！
 ヘッドレスCMSとか使ってる方々、乙でーすwwwww
