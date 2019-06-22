@@ -162,6 +162,8 @@ profileもでました。
 
 もっとこだわった画面を作りたい人のために、[`カスタムメッセージ （ベータ版）`](https://docs.repro.io/ja/dashboard/campaign/custom-message.html) という機能があり、これを申し込みましょう。
 
+![Screen Shot](https://boiyaa.github.io/dont-use-repro-like-this/images/80.png)
+![Screen Shot](https://boiyaa.github.io/dont-use-repro-like-this/images/81.png)
 
 
 
